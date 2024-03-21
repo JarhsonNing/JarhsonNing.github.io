@@ -6,7 +6,6 @@ export default defineConfig({
   title: "JarhsonNing",
   description: "JarhonNing's docs",
   lastUpdated: true,
-  base: '/frontEndDocs/',
   head: [['link', { rel: 'icon', href: '/frontEndDocs/favicon.ico' }]],
   themeConfig: {
     logo: '/favicon.ico',
